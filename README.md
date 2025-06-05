@@ -43,10 +43,10 @@
     <rect x="190" y="10" width="20" height="20" fill="#0d6efd" />
     <rect x="220" y="10" width="20" height="20" fill="#0d6efd" />
 
-    <!-- Snake "head" moving -->
-    <circle r="10" fill="#f0ad4e">
-      <animateMotion dur="8s" repeatCount="indefinite" path="M10,20 H220" />
-    </circle>
+  <p align="center">
+  <img src="path_to_your_snake_animation.gif" alt="GitHub Contribution Snake Animation" />
+</p>
+
   </svg>
 </p>
 
