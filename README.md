@@ -1,51 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sreehari Rajesh</h1>
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="40" />
-  A Passionate Full Stack Developer from Kerala, India 🇮🇳
-</h3>
-
 ---
 
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **RESTful APIs using Go (Gin Framework)**  
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Working on computer" width="60" align="right" />
 - 🌱 Learning advanced concepts in **Gin**, including middleware and authentication  
 - 💬 Ask me about **Golang, React, TailwindCSS, and Full Stack Development**  
 - 📫 Reach me at: [sreeharirajesh1234@gmail.com](mailto:sreeharirajesh1234@gmail.com)  
 - ⚡ Fun fact: I write Go code like poetry 📝  
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Writing code" width="60" align="right" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Coding Animation" width="120" />
+</p>
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge" />
+  <!-- Add more badges as needed -->
 </p>
 
 ---
 
-### 📈 sreehari's GitHub stats
+### 🌟 Featured Project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight&title_color=58a6ff&hide_title=false&count_private=true&custom_title=sreehari's%20github%20stats" alt="Sreehari's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreehari&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://your-ecommerce-project-link.com" target="_blank">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="E-commerce Project Demo" width="600" />
+  </a>
 </p>
 
 ---
@@ -62,4 +47,8 @@
   <a href="https://sreehari.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge" alt="Portfolio" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open to Work" />
 </p>
