@@ -33,30 +33,14 @@
 
 ---
 
-### 🛒 Main Project
-
-- 🎨 **Furniture E-commerce App**  
-  A fully responsive and user-friendly single-page eCommerce website built using **React**, **TailwindCSS**, **Redux**, and a **JSON server** backend.  
-  Features include product browsing, searching, and purchase simulation with a smooth UX.
-
----
-
-### 📈 GitHub Stats
+### 📈 sreehari's github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight&title_color=58a6ff" alt="Sreehari Rajesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight&title_color=58a6ff&hide_title=false&count_private=true&custom_title=sreehari's%20github%20stats" alt="Sreehari's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreehari&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreehari&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
