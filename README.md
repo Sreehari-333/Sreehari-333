@@ -1,39 +1,45 @@
 <h1 align="center">Hi 👋, I'm Sreehari Rajesh</h1>
-<h3 align="center" style="font-weight:normal; color:#4A90E2;">
-  A Passionate Full Stack Developer from Kerala, India 🇮🇳
-</h3>
+<h3 align="center">A Passionate Full Stack Developer from Kerala, India 🇮🇳</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently developing **RESTful APIs with Go (Gin Framework)**
-- 🌱 Deepening expertise in **middleware, authentication, and secure API design**
-- 💬 Skilled in **Golang, React, TailwindCSS, and full stack web development**
-- 📫 Contact: [sreeharirajesh1234@gmail.com](mailto:sreeharirajesh1234@gmail.com)
+- 🔭 I’m currently working on **RESTful APIs using Go (Gin Framework)**
+- 🌱 Learning advanced concepts in **Gin**, including middleware and authentication
+- 💬 Ask me about **Golang, React, TailwindCSS, and Full Stack Development**
+- 📫 Reach me at: [sreeharirajesh1234@gmail.com](mailto:sreeharirajesh1234@gmail.com)
 - ⚡ Fun fact: I write Go code like poetry 📝
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages and Tools
 
-<p align="center" style="margin-top: 8px; margin-bottom: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" style="margin:0 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin:0 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" style="margin:0 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:0 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin:0 10px"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 sreehari's github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight&title_color=58a6ff&hide_title=false&count_private=true&custom_title=sreehari's%20github%20stats" alt="Sreehari's GitHub Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreehari&theme=tokyonight" alt="GitHub Streak" />
-  <br/><br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -42,13 +48,13 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sreeharirajesh05/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sreeharirajesh05/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:sreeharirajesh1234@gmail.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:sreeharirajesh1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://sreehari.github.io" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  <a href="https://sreehari.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
