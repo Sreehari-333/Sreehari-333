@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sreehari Rajesh</h1>
-<h3 align="center">A Passionate Full Stack Developer from Kerala, India 🇮🇳</h3>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="40" />
+  A Passionate Full Stack Developer from Kerala, India 🇮🇳
+</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **RESTful APIs using Go (Gin Framework)**
-- 🌱 Learning advanced concepts in **Gin**, including middleware and authentication
-- 💬 Ask me about **Golang, React, TailwindCSS, and Full Stack Development**
-- 📫 Reach me at: [sreeharirajesh1234@gmail.com](mailto:sreeharirajesh1234@gmail.com)
-- ⚡ Fun fact: I write Go code like poetry 📝
+- 🔭 I’m currently working on **RESTful APIs using Go (Gin Framework)**  
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Working on computer" width="60" align="right" />
+- 🌱 Learning advanced concepts in **Gin**, including middleware and authentication  
+- 💬 Ask me about **Golang, React, TailwindCSS, and Full Stack Development**  
+- 📫 Reach me at: [sreeharirajesh1234@gmail.com](mailto:sreeharirajesh1234@gmail.com)  
+- ⚡ Fun fact: I write Go code like poetry 📝  
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Writing code" width="60" align="right" />
 
 ---
 
@@ -33,7 +38,7 @@
 
 ---
 
-### 📈 sreehari's github stats
+### 📈 sreehari's GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight&title_color=58a6ff&hide_title=false&count_private=true&custom_title=sreehari's%20github%20stats" alt="Sreehari's GitHub Stats" />
