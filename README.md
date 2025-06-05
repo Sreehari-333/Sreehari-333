@@ -33,10 +33,18 @@
 
 ---
 
+### 🛒 Main Project
+
+- 🎨 **Furniture E-commerce App**  
+  A fully responsive and user-friendly single-page eCommerce website built using **React**, **TailwindCSS**, **Redux**, and a **JSON server** backend.  
+  Features include product browsing, searching, and purchase simulation with a smooth UX.
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight&title_color=58a6ff" alt="Sreehari Rajesh's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreehari&theme=tokyonight" alt="GitHub Streak" />
   <br/>
@@ -50,14 +58,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sreehari&theme=onedark" alt="GitHub Trophies" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-- 🔧 [go-task-manager](https://github.com/sreehari/go-task-manager): A RESTful Task API built with Gin & PostgreSQL
-- 🔐 [gin-auth-starter](https://github.com/sreehari/gin-auth-starter): JWT & Bcrypt-based Authentication Boilerplate
-- 🎨 [react-tailwind-app](https://github.com/sreehari/react-tailwind-app): Frontend starter with React & TailwindCSS
 
 ---
 
