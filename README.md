@@ -32,6 +32,25 @@
 </p>
 
 ---
+<p align="center">
+  <svg width="240" height="112" viewBox="0 0 240 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="10" width="20" height="20" fill="#0d6efd" />
+    <rect x="40" y="10" width="20" height="20" fill="#0d6efd" />
+    <rect x="70" y="10" width="20" height="20" fill="#0d6efd" />
+    <rect x="100" y="10" width="20" height="20" fill="#0d6efd" />
+    <rect x="130" y="10" width="20" height="20" fill="#0d6efd" />
+    <rect x="160" y="10" width="20" height="20" fill="#0d6efd" />
+    <rect x="190" y="10" width="20" height="20" fill="#0d6efd" />
+    <rect x="220" y="10" width="20" height="20" fill="#0d6efd" />
+
+    <!-- Snake "head" moving -->
+    <circle r="10" fill="#f0ad4e">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M10,20 H220" />
+    </circle>
+  </svg>
+</p>
+
+----
 
 ### 📈 sreehari's github stats
 
