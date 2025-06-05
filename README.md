@@ -32,25 +32,6 @@
 </p>
 
 ---
-<p align="center">
-  <svg width="240" height="112" viewBox="0 0 240 112" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="10" y="10" width="20" height="20" fill="#0d6efd" />
-    <rect x="40" y="10" width="20" height="20" fill="#0d6efd" />
-    <rect x="70" y="10" width="20" height="20" fill="#0d6efd" />
-    <rect x="100" y="10" width="20" height="20" fill="#0d6efd" />
-    <rect x="130" y="10" width="20" height="20" fill="#0d6efd" />
-    <rect x="160" y="10" width="20" height="20" fill="#0d6efd" />
-    <rect x="190" y="10" width="20" height="20" fill="#0d6efd" />
-    <rect x="220" y="10" width="20" height="20" fill="#0d6efd" />
-
-  <p align="center">
-  <img src="path_to_your_snake_animation.gif" alt="GitHub Contribution Snake Animation" />
-</p>
-
-  </svg>
-</p>
-
-----
 
 ### 📈 sreehari's github stats
 
