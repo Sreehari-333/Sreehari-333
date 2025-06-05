@@ -1,26 +1,76 @@
-<h1>Hi 👋, I'm Sreehari</h1>
-<p>A passionate Full Stack developer from Kerala,India</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1 align="center">Hi 👋, I'm Sreehari Rajesh</h1>
+<h3 align="center">A Passionate Full Stack Developer from Kerala, India 🇮🇳</h3>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **RESTful APIs using Go (Gin Framework)**
+- 🌱 Learning advanced concepts in **Gin**, including middleware and authentication
+- 💬 Ask me about **Golang, React, TailwindCSS, and Full Stack Development**
+- 📫 Reach me at: [sreeharirajesh1234@gmail.com](mailto:sreeharirajesh1234@gmail.com)
+- ⚡ Fun fact: I write Go code like poetry 📝
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sreeharirajesh05/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&locale=en" alt="sreehari" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreehari&" alt="sreehari" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreehari&show_icons=true&locale=en&layout=compact" alt="sreehari" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreehari" alt="sreehari" /></a></p>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreehari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreehari&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sreehari&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔧 [go-task-manager](https://github.com/sreehari/go-task-manager): A RESTful Task API built with Gin & PostgreSQL
+- 🔐 [gin-auth-starter](https://github.com/sreehari/gin-auth-starter): JWT & Bcrypt-based Authentication Boilerplate
+- 🎨 [react-tailwind-app](https://github.com/sreehari/react-tailwind-app): Frontend starter with React & TailwindCSS
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreeharirajesh05/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sreeharirajesh1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://sreehari.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
